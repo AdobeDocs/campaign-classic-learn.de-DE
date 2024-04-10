@@ -12,7 +12,7 @@ exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 82%
+ht-degree: 84%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 82%
 
 Adobe Campaign enthält ein Workflow-Modul, mit dem Sie die gesamte Bandbreite von Prozessen und Aufgaben über die verschiedenen Module des Anwendungs-Servers hinweg orchestrieren können. In dieser vielseitigen grafischen Umgebung können Sie Prozesse erstellen, wie etwa die Segmentierung, die Kampagnenausführung, die Dateiverarbeitung und den Eingriff durch Personen. Die Ausführung und Nachverfolgung dieser Prozesse erfolgt durch die Workflow-Engine.
 
-In diesem Video wird beschrieben, wie Sie einen Workflow in Adobe Campaign Classic erstellen.
+In diesem Video wird erläutert, wie Sie einen Workflow in Adobe Campaign Classic erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}

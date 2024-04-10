@@ -1,6 +1,6 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
-description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
+description: In diesem Tutorial wurde gezeigt, wie Versandinhalte personalisiert, JavaScript-Code in Versandvorlagen verwendet und Inhaltsbausteine in verschiedenen Versandvorlagen standardisiert und freigegeben werden können.
 feature: Personalization
 jira: KT-1559
 doc-type: feature video
@@ -8,8 +8,8 @@ activity: use
 team: TM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 69%
+source-wordcount: '258'
+ht-degree: 71%
 
 ---
 
@@ -23,11 +23,11 @@ In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten 
 3- Dynamische Personalisierungsfelder einfügen\
 4- Bedingte Inhalte erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
+In diesem Tutorial wurde gezeigt, wie Versandinhalte personalisiert, JavaScript-Code in Versandvorlagen verwendet und Inhaltsbausteine in verschiedenen Versandvorlagen standardisiert und freigegeben werden können.
 
 ## Gestaltungsbaustein erstellen und zu einem Versand hinzufügen
 
-Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendercode, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirror-Seite, Abmelde-Links und vieles mehr hinzufügen.
+Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirroseite, Abmelde-Links und vieles mehr hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
@@ -43,4 +43,4 @@ Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierun
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).
+Weitere Informationen zur Personalisierung finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).
