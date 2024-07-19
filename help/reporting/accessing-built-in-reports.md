@@ -19,6 +19,6 @@ ht-degree: 56%
 
 # Zugriff auf native Berichte
 
-Machen Sie sich mit integriertem Reporting und integrierter Analyse in Campaign Classic vertraut und erfahren Sie, wie Sie einen Versandbericht erstellen.
+Machen Sie sich mit der integrierten Berichterstellung und Analyse in Campaign Classic vertraut und erfahren Sie, wie Sie einen Versandbericht erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}

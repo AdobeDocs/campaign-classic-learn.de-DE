@@ -20,10 +20,10 @@ ht-degree: 45%
 
 Die Ermüdungsverwaltung steuert die Häufigkeit und Menge der Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Häufig wird sie mithilfe einer Typologieregel umgesetzt.
 
-Mit Typologieregeln können Marketing-Experten Geschäftspraktiken in allen Sendungen effizienter standardisieren, um das Kampagnen-Messaging für Kunden zu steuern. Dies erreichen sie, indem sie die Notwendigkeit beseitigen, Ausschlüsse oder häufig verwendete Regeln auf jede einzelne Kampagne anzuwenden. Empfängerinnen und Empfänger, die den Kriterien innerhalb einer *Typologieregel* werden während der Analysephase vom Versand ausgeschlossen.
+Mit Typologieregeln können Marketing-Experten Geschäftspraktiken in allen Sendungen effizienter standardisieren, um das Kampagnen-Messaging für Kunden zu steuern. Dies geschieht, indem Ausschlüsse oder häufig verwendete Regeln nicht auf einzelne Kampagnen angewendet werden. Empfänger, die den Kriterien einer *Typologieregel* entsprechen, werden während der Analysephase vom Versand ausgeschlossen.
 
 In diesem Video wird erläutert, wie Sie die Ermüdungsverwaltung in Adobe Campaign Classic mithilfe von Typologieregeln implementieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zu finden Sie in der Produktdokumentation . [Kampagnentypologien](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=de).
+Weitere Informationen zu [Kampagnentypologien](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=de) finden Sie in der Produktdokumentation.

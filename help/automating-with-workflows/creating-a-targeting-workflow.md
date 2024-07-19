@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Zielgruppenbestimmungs-Workflows
-description: Erfahren Sie, wie Sie mithilfe von Zielgruppen-Workflows mehrere Versandziele definieren.
+description: Hier erfahren Sie, wie Sie mithilfe von Zielgruppen-Workflows mehrere Versandziele definieren.
 feature: Workflows, Targeting Activity, Query Editor
 jira: KT-2174
 doc-type: feature video
@@ -18,9 +18,9 @@ ht-degree: 17%
 
 # Erstellen eines Zielgruppenbestimmungs-Workflows
 
-Adobe Campaign verwendet Workflows, um Zielgruppenkampagnen durchzuführen, Kampagnen zu erstellen oder technische Adobe Campaign-Prozesse auszuführen. In diesem Video werden wir uns auf Zielgruppen-Workflows konzentrieren. Zielgruppen-Workflows ermöglichen die Erstellung mehrerer Versandziele.
+Adobe Campaign verwendet Workflows, um Zielgruppenbestimmungskampagnen durchzuführen, Kampagnen zu erstellen oder technische Adobe Campaign-Prozesse auszuführen. In diesem Video konzentrieren wir uns auf Zielgruppen-Workflows. Mit Zielgruppen-Workflows können Sie mehrere Versandziele erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
-Siehe die Dokumentation [Über Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
-und [Über Zielgruppenbestimmungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de) für weitere Informationen.
+Weitere Informationen finden Sie in der Dokumentation [zu Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de) .
+und [über Targeting-Aktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de) für weitere Informationen.

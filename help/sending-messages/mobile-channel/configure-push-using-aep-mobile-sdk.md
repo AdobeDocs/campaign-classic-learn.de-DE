@@ -18,6 +18,6 @@ ht-degree: 71%
 
 # Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK
 
-In diesem Video wird erläutert, wie Sie das Adobe Experience Platform Mobile SDK konfigurieren und installieren.
+In diesem Video wird die Konfiguration und Installation des Adobe Experience Platform Mobile SDK erläutert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}

@@ -1,5 +1,5 @@
 ---
-title: Verwalten von Validierungen in einer Kampagne
+title: Verwalten von Genehmigungen in einer Kampagne
 description: Erfahren Sie, wie Sie Genehmigungen und Kampagnen einrichten und zwischen Versand- und Workflow-Genehmigungen unterscheiden.
 feature: Workflows, Approvals
 jira: KT-5093
@@ -17,11 +17,11 @@ ht-degree: 51%
 
 ---
 
-# Verwalten von Validierungen in einer Kampagne
+# Verwalten von Genehmigungen in einer Kampagne
 
-Validierungen ermöglichen es Benutzenden, Entscheidungen über einen Workflow zu treffen oder dessen Ausführung zu bestätigen.
+Validierungen ermöglichen es Benutzern, für einen Workflow Entscheidungen zu treffen oder die Ausführung zu bestätigen.
 Erfahren Sie, wie Sie Genehmigungen und Kampagnen einrichten und zwischen Versand- und Workflow-Genehmigungen unterscheiden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zum Definieren von Validierungen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Weitere Informationen zum Definieren von Genehmigungen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).

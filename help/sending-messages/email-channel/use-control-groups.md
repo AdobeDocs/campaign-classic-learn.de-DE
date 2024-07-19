@@ -12,8 +12,8 @@ level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 77%
 
 ---
 
@@ -25,4 +25,4 @@ Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, w
 
 >[!IMPORTANT]
 >Wenn im Zielgruppenbestimmungs-Workflow mehrere Sendungen enthalten sind, müssen Sie die Kontrollgruppeneinstellungen sowohl auf Versandebene als auch in den Kampagneneinstellungen aktivieren.
->Informationen dazu, [wie Kontrollgruppen definiert werden](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=de#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=de){target="_blank"}, finden Sie in der Produktdokumentation.
+>Weitere Informationen zum Definieren von Kontrollgruppen ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=de#defining-a-control-group){target="_blank"} und [der Zielpopulation des Versands](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=de){target="_blank"} finden Sie in der Produktdokumentation[

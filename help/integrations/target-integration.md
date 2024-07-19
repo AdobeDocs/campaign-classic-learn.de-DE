@@ -1,5 +1,5 @@
 ---
-title: Integrieren von Campaign Classic V7 mit Adobe Target
+title: Integrieren von Campaign Classic V7 in Adobe Target
 description: Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.
 feature: Target Integration
 role: User
@@ -15,11 +15,11 @@ ht-degree: 45%
 
 ---
 
-# Integrieren von Campaign Classic V7 mit Adobe Target
+# Integrieren von Campaign Classic V7 in Adobe Target
 
 Hier erfahren Sie, wie Sie einen Versand mit dynamischen Inhalten personalisieren, die von Adobe Target bereitgestellt werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
 
 >[!NOTE]
-> Das Video wurde in Campaign v8 aufgezeichnet. Die Funktionalität ist für Campaign Classic v7 und Campaign v8 identisch.
+> Das Video wurde in Campaign V8 aufgezeichnet, die Funktionalität ist für Campaign Classic V7 und Campaign V8 identisch.

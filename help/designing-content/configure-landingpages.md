@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von Landingpages
+title: Landingpages konfigurieren
 description: Erfahren Sie, wie Sie Landingpages erstellen und konfigurieren.
 feature: Landing Pages
 jira: KT-11918
@@ -17,10 +17,10 @@ ht-degree: 8%
 
 ---
 
-# Konfigurieren von Landingpages
+# Landingpages konfigurieren
 
 Erfahren Sie, wie Sie Landingpages erstellen und konfigurieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
 
-Weitere Informationen finden Sie in der ausführlichen Dokumentation zu [Landingpage erstellen](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=de).
+Weitere Informationen finden Sie in der ausführlichen Dokumentation zum [Erstellen einer Landingpage](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=de).

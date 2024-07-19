@@ -1,6 +1,6 @@
 ---
 title: Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage in Adobe Campaign Classic
-description: Erfahren Sie, wie Sie eine Ad-hoc-E-Mail-Versandvorlage bereitstellen und wie sich E-Mail-Versand und Versand-Workflow unterscheiden.
+description: Erfahren Sie, wie Sie eine Ad-hoc-E-Mail-Versandvorlage bereitstellen und den Unterschied zwischen einem E-Mail-Versand und einem Versand-Workflow verstehen.
 feature: Delivery Templates
 jira: KT-1565
 thumbnail: 24065.jpg

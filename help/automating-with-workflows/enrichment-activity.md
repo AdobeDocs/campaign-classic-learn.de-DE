@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren von Anreicherungsaktivitäten
+title: Anreicherungsaktivitäten konfigurieren
 description: Erfahren Sie, wie Sie eine Anreicherungsaktivität basierend auf Versand-Log-Informationen konfigurieren.
 feature: Workflows, Enrichment Activity
 jira: KT-1561
@@ -16,7 +16,7 @@ ht-degree: 78%
 
 ---
 
-# Konfigurieren von Anreicherungsaktivitäten
+# Anreicherungsaktivitäten konfigurieren
 
 Die Anreicherungsaktivität ist ein Workflow-Objekt, das Daten zur Arbeitstabelle hinzufügt. Mithilfe der Anreicherungsaktivität können Sie Spalten zu einer Tabelle hinzufügen, in der zusätzliche Daten gespeichert werden, oder neue Links zu anderen vorhandenen Daten definieren.
 

@@ -1,6 +1,6 @@
 ---
 title: Erstellen eines Präferenzzentrums
-description: Erfahren Sie, wie Sie mit dem Web-Anwendungs-Editor von Adobe Campaign ein Präferenzzentrum erstellen.
+description: Erfahren Sie, wie Sie mit dem Webanwendungs-Editor von Adobe Campaign ein Präferenzzentrum erstellen.
 feature: Landing Pages
 jira: KT-1562
 thumbnail: 25041.jpg
@@ -20,8 +20,8 @@ ht-degree: 22%
 
 # Erstellen eines Präferenzzentrums
 
-Erfahren Sie, wie Sie mit dem Web-Anwendungs-Editor von Adobe Campaign ein Präferenzzentrum erstellen.
+Erfahren Sie, wie Sie mit dem Webanwendungs-Editor von Adobe Campaign ein Präferenzzentrum erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
 
-Weitere Informationen finden Sie in der ausführlichen Dokumentation zu [Landingpage erstellen](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=de).
+Weitere Informationen finden Sie in der ausführlichen Dokumentation zum [Erstellen einer Landingpage](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=de).

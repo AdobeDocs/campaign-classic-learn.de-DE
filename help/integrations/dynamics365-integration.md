@@ -1,6 +1,6 @@
 ---
 title: Integration von Dynamics 365 mit Adobe Campaign Classic
-description: In diesem Video wird gezeigt, wie Dynamics 365 mit Adobe Campaign Classic integriert wird.
+description: In diesem Video wird gezeigt, wie Dynamics 365 in Adobe Campaign Classic integriert wird.
 targetaudience: target-audience new;target-audience ongoing
 feature: Microsoft CRM Integration
 jira: KT-1869
@@ -21,6 +21,6 @@ ht-degree: 45%
 
 # Integration von Dynamics 365 mit Adobe Campaign Classic
 
-In diesem Video wird gezeigt, wie Dynamics 365 mit Adobe Campaign Classic integriert wird.
+In diesem Video wird gezeigt, wie Dynamics 365 in Adobe Campaign Classic integriert wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12&learn=on){transcript=true}

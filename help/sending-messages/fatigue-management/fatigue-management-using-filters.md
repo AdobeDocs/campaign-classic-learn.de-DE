@@ -18,10 +18,10 @@ ht-degree: 29%
 
 # Einrichten der Ermüdungsverwaltung mithilfe vordefinierter Filter
 
-Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Wenn Sie das Modul zur Kampagnenoptimierung nicht in Ihrer Kampagneninstanz haben, können Sie einen vordefinierten Filter konfigurieren, der die Zielpopulation nach der Anzahl der empfangenen Nachrichten filtert.
+Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um eine Überforderung von Empfängern zu vermeiden. Wenn das Modul zur Kampagnenoptimierung nicht in Ihrer Kampagneninstanz vorhanden ist, können Sie einen vordefinierten Filter konfigurieren, der die Zielpopulation nach der Anzahl der empfangenen Nachrichten filtert.
 
 In diesem Video wird erläutert, wie Sie die Ermüdungsverwaltung in Adobe Campaign Classic mithilfe von Filtern implementieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zu finden Sie in der Produktdokumentation . [Kampagnentypologien](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=de).
+Weitere Informationen zu [Kampagnentypologien](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=de) finden Sie in der Produktdokumentation.
