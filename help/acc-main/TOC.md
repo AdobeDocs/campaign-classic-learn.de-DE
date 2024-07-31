@@ -5,10 +5,10 @@ user-guide-title: Tutorials zu Adobe Campaign Classic v7
 user-guide-description: Videos und Tutorials zu Adobe Campaign Classic v7.
 breadcrumb-title: Tutorials zu Campaign Classic v7
 auto-video-transcripts: true
-source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
+source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '415'
+ht-degree: 100%
 
 ---
 
@@ -108,4 +108,3 @@ ht-degree: 0%
 + [Fehlerbehebung in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=de)
 + Strategie und Vordenkerposition{#strategy}
    + [Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
-   + 
