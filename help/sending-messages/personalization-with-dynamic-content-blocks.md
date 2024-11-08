@@ -5,10 +5,11 @@ feature: Personalization
 jira: KT-1559
 doc-type: feature video
 activity: use
+level: Intermediate
 team: TM
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 71%
 
 ---
@@ -27,7 +28,7 @@ In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScr
 
 ## Gestaltungsbaustein erstellen und zu einem Versand hinzufügen
 
-Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendercode, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirroseite, Abmelde-Links und vieles mehr hinzufügen.
+Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendercode, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
