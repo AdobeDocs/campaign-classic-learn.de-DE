@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).
+Weitere Informationen zur Personalisierung finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).

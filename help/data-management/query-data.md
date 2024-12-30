@@ -1,6 +1,6 @@
 ---
 title: Abfragedaten
-description: Erfahren Sie, wie Sie Daten mit dem Abfrageeditor abfragen können.
+description: Erfahren Sie, wie Sie Daten mit dem Abfrage-Editor abfragen.
 jira: KT-11924
 doc-type: feature video
 activity: use
@@ -19,6 +19,6 @@ ht-degree: 18%
 
 # Abfragedaten
 
-Erfahren Sie, wie Sie Daten mit dem Abfrageeditor abfragen können.
+Erfahren Sie, wie Sie Daten mit dem Abfrage-Editor abfragen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}

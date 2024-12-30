@@ -12,7 +12,7 @@ recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '355'
 ht-degree: 100%
 
 ---
@@ -39,11 +39,11 @@ Bevor Sie beginnen können, benötigen Sie Folgendes:
 
 2) **[!DNL Mobile App channel]Paket installiert**
 
-   Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie eine Installation durchführen können, falls dies nicht der Fall ist.
+   Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie diese installieren können, falls dies nicht der Fall ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-## Tutorial-Überblick
+## Tutorial-Übersicht
 
 Wir möchten den Abonnenten der [!DNL Neotrip] [!DNL Android] Mobile App zu Werbezwecken eine personalisierte [!DNL push]-Benachrichtigung senden. Die [!DNL Neotrip]-App wird mit dem [!DNL Campaign SDK] konfiguriert und wir haben sichergestellt, dass die [!DNL Mobile App channel] in unserer [!DNL Campaign]-Instanz aktiviert ist.
 

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 89%
+source-wordcount: '280'
+ht-degree: 93%
 
 ---
 # Beitrag leisten
@@ -16,9 +16,9 @@ Im Folgenden finden Sie eine Reihe von Richtlinien, die Sie bei der Mitarbeit an
 Dieses Projekt unterliegt dem [Verhaltenskodex](code-of-conduct.md) von Adobe. Durch Ihre Teilnahme wird von Ihnen erwartet, diesen Verhaltenskodex einzuhalten. Melden Sie bitte inakzeptables Verhalten an
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Dokumentation zum Mitarbeiter-Handbuch
+## Dokumentation zum Contributor Guide
 
-Siehe [Mitarbeiter-Handbuch](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
 
 ## Sie haben eine Frage?
 
@@ -30,7 +30,7 @@ Für alle Drittanbieter-Beiträge zu diesem Projekt muss eine unterzeichnete CLA
 
 ## Codeüberprüfungen
 
-Alle Übermittlungen sollten in Form von Pull-Anfragen erfolgen und müssen überprüft werden
+Alle Einreichungen sollten in Form von Pull-Anfragen erfolgen und müssen überprüft werden
 durch Projektverantwortliche. Weitere Informationen zum Senden von Pull-Anfragen finden Sie in der [Dokumentation zu Pull-Anfragen von GitHub](https://help.github.com/articles/about-pull-requests).
 
 <!--

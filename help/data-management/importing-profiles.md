@@ -1,5 +1,5 @@
 ---
-title: Importieren von Profilen
+title: So importieren Sie Profile
 description: Erfahren Sie, wie Sie Profile in Adobe Campaign Classic importieren
 feature: Profiles
 jira: KT-2176
@@ -11,12 +11,12 @@ level: Beginner
 exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 6%
+source-wordcount: '28'
+ht-degree: 0%
 
 ---
 
-# Importieren von Profilen
+# So importieren Sie Profile
 
 In diesem Video wird erläutert, wie Profile in Adobe Campaign Classic importiert werden.
 

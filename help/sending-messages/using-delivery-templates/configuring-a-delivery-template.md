@@ -1,5 +1,5 @@
 ---
-title: Konfigurieren einer Versandvorlage in Adobe Campaign Classic
+title: Konfigurieren von Versandvorlagen in Adobe Campaign Classic
 description: Erfahren Sie, wie Sie eine Vorlage für den Ad-hoc-Versand konfigurieren.
 feature: Delivery Templates
 jira: KT-1980
@@ -13,8 +13,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 85%
+source-wordcount: '93'
+ht-degree: 84%
 
 ---
 

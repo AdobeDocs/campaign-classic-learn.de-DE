@@ -21,7 +21,7 @@ ht-degree: 96%
 Das [!UICONTROL Audit-Protokoll] erfasst in Echtzeit eine umfassende Liste von Aktionen und Ereignissen, die in Adobe Campaign auftreten. Die Funktionen des [!UICONTROL Audit-Protokolls] beinhalten eine Self-Service-Option für den Zugriff auf einen Datenverlauf, damit sich zum Beispiel folgende Fragen beantworten lassen:
 
 * Was ist mit einem Objekt geschehen?
-* Wer hat es zuletzt geändert und wann?
+* Wer hat sie zuletzt und wann geändert?
 * Wie war der vorherige Status?
 
 >[!NOTE]

@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 77%
 
 ---
 
 # Erstellen von Multi-Channel-Kampagnen
 
-In einer Multi-Channel-Kampagne verwendet eine Marketing-Kommunikation mehrere Kanäle, um eine breitere Zielgruppe zu erreichen. Die Kanäle werden unabhängig voneinander verwendet, ohne dass eine Verbindung zwischen ihnen besteht. Das bedeutet, dass Kunden in einem Kanal innerhalb eines Workflows verbleiben.
+In einer Multi-Channel-Kampagne verwendet eine Marketing-Kommunikation mehrere Kanäle, um eine breitere Zielgruppe zu erreichen. Die Kanäle werden unabhängig voneinander verwendet, ohne dass eine Verbindung zwischen ihnen besteht, d. h., Kunden bleiben innerhalb eines Workflows in einem Kanal.
 
 Erfahren Sie, wie Sie eine Multi-Channel-Kampagne erstellen, indem Sie E-Mail-, SMS- und Briefpost-Sendungen verwenden, basierend auf dem bevorzugten Kanal des Empfängers.
 

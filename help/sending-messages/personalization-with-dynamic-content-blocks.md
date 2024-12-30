@@ -1,6 +1,6 @@
 ---
 title: Personalisieren von E-Mails mit dynamischen Inhaltsbausteinen
-description: In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
+description: In diesem Tutorial wurde gezeigt, wie Versandinhalte personalisiert, JavaScript-Code in Versandvorlagen verwendet und Inhaltsbausteine in verschiedenen Versandvorlagen standardisiert und freigegeben werden können.
 feature: Personalization
 jira: KT-1559
 doc-type: feature video
@@ -24,11 +24,11 @@ In Adobe Campaign können Sie Inhalte oder das Erscheinungsbild von Nachrichten 
 3- Dynamische Personalisierungsfelder einfügen\
 4- Bedingte Inhalte erstellen
 
-In diesem Tutorial erfahren Sie, wie Sie Versandinhalte personalisieren, JavaScript-Code in Versandvorlagen verwenden und Inhaltsbausteine in verschiedenen Versandvorlagen standardisieren und freigeben können.
+In diesem Tutorial wurde gezeigt, wie Versandinhalte personalisiert, JavaScript-Code in Versandvorlagen verwendet und Inhaltsbausteine in verschiedenen Versandvorlagen standardisiert und freigegeben werden können.
 
 ## Gestaltungsbaustein erstellen und zu einem Versand hinzufügen
 
-Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendercode, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
+Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
