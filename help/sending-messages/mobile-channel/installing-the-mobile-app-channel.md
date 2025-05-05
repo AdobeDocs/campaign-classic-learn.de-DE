@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie überprüfen können, ob der Mobile-App-Kanal in Ihrer Ins
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zur Konfiguration des Mobile-App-Kanals finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).
+Weitere Informationen zur Konfiguration des Mobile-App-Kanals finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=de#installing-package-ios).

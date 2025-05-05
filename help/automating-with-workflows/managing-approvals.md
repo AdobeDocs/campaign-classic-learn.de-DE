@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie Genehmigungen und Kampagnen einrichten und zwischen Versan
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-Weitere Informationen zum Definieren von Genehmigungen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Weitere Informationen zum Definieren von Genehmigungen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=de#sending-emails).
