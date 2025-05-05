@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Veröffentlichungsfehler von Benutzern ohne Administratorrechte beheben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436716?quality=12&learn=on&captions=ger){transcript=true}

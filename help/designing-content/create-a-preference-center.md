@@ -22,6 +22,6 @@ ht-degree: 19%
 
 Erfahren Sie, wie Sie mit dem Web-Anwendungs-Editor von Adobe Campaign ein Präferenzzentrum erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30202?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der ausführlichen Dokumentation unter [Erstellen einer Landingpage](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=de).

@@ -21,4 +21,4 @@ ht-degree: 49%
 
 In diesem Video wird erläutert, wie man eine Ad-hoc-E-Mail-Versandvorlage bereitstellt. Außerdem wird der Unterschied zwischen einem E-Mail-Versand- und einem Versand-Workflow erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27449?quality=12&learn=on&captions=ger){transcript=true}

@@ -30,18 +30,18 @@ In diesem Tutorial wurde gezeigt, wie Versandinhalte personalisiert, JavaScript-
 
 Ein Gestaltungsbaustein ist dynamisch und enthält spezifischen Rendering-Code, der Sendungen hinzugefügt werden kann. Sie können beispielsweise Bilder, E-Mail-Header, E-Mail-Footer, Links zu einer Mirrorseite, Abmelde-Links und vieles mehr hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30080?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Ein Personalisierungsfeld einem Versand hinzufügen
 
 Personalisierungsfelder dienen zur Personalisierung des Inhalts gesendeter Nachrichten auf erster Ebene. Die Felder, die Sie in einen Hauptinhalt einfügen, zeigen die Position an, an der die Daten aus einer ausgewählten Datenquelle eingefügt werden sollen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30081?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Bedingte Inhalte einem Versand hinzufügen
 
 Die Konfiguration bedingter Inhalte erlaubt einen weitreichenden Personalisierungsgrad. Vollständige Absätze oder Bildbereiche werden ersetzt, wenn eine bestimmte Bedingung erfüllt ist. In diesem Video erfahren Sie, wie Sie einem Versand bedingte Inhalte hinzufügen können, beispielsweise einen mehrsprachigen Newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30082?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zu Personalization finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).

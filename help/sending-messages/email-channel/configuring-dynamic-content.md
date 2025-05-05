@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Machen Sie sich mit den verschiedenen Arten von dynamischem Content vertraut und lernen Sie, wie Sie Gestaltungsbausteine und bedingte Anweisungen erstellen und auf einen Versand anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453348?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=de).

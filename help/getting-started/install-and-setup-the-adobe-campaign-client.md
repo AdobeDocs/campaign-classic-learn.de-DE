@@ -21,4 +21,4 @@ ht-degree: 100%
 
 In folgenden Video erfahren Sie, wie Sie die Client-Konsole von Adobe Campaign herunterladen und installieren, Verbindungen zu mehreren Umgebungen herstellen und verwalten und den Zugriff auf die Client-Konsole von Adobe Campaign überprüfen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38268?quality=12&learn=on&captions=ger){transcript=true}

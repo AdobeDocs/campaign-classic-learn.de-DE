@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Probleme im Zusammenhang mit dem E-Mail-Versand in Campaign beheben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343538?quality=12&learn=on&captions=ger){transcript=true}

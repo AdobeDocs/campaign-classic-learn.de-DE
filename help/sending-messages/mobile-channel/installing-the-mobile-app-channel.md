@@ -21,6 +21,6 @@ ht-degree: 77%
 
 Erfahren Sie, wie Sie überprüfen können, ob der Mobile-App-Kanal in Ihrer Instanz installiert ist, und wie Sie ihn installieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340422?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zur Konfiguration des Mobile-App-Kanals finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=de#installing-package-ios).

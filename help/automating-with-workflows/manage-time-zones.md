@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Zeitzonen auf geplante Workflow-Aktivitäten anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443858?quality=12&learn=on&captions=ger){transcript=true}

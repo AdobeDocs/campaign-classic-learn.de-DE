@@ -20,7 +20,7 @@ ht-degree: 14%
 
 Adobe Campaign verwendet Workflows, um Zielgruppenkampagnen durchzuführen, Kampagnen zu erstellen oder technische Adobe Campaign-Prozesse auszuführen. In diesem Video werden wir uns auf Zielgruppen-Workflows konzentrieren. Zielgruppen-Workflows ermöglichen die Erstellung mehrerer Versandziele.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30960?quality=12&learn=on&captions=ger){transcript=true}
 
 Siehe die Dokumentation [über Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=de)
 und [Über Zielgruppenbestimmungsaktivitäten](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=de) um weitere Informationen zu erhalten.

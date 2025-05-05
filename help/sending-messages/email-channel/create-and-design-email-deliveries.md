@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Machen Sie sich mit dem Erstellen eines E-Mail-Versands vertraut und erfahren Sie, wie Sie E-Mail-Inhalte gestalten und personalisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447786?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=de)

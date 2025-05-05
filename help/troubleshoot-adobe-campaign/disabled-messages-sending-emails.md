@@ -17,4 +17,4 @@ ht-degree: 100%
 # Deaktivierte Nachrichten, die E-Mails auslösen
 
 Erfahren Sie, wie Sie das Senden von E-Mails durch deaktivierte Nachrichten stoppen können.
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437120?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie einen Testversand senden und validieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448926?learn=on&captions=ger){transcript=true}

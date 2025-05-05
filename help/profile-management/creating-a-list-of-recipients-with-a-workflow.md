@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie einen Workflow erstellen, um Empfänger als Zielkontakte auszuwählen und den Workflow als wiederkehrend einzurichten, bevor die Liste als Zielgruppe für eine E-Mail-Kampagne verwendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30195?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Testadressen und Testsendungen zu einer bestehenden E-Mail hinzufügen und wie Sie sie versenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35532?quality=12&learn=on&captions=ger){transcript=true}

@@ -26,6 +26,6 @@ Ein Gestaltungsbaustein ist dynamisch und personalisiert und enthält spezifisch
 
 Erfahren Sie, wie Sie dynamische Inhaltsbausteine erstellen und diese zur Personalisierung von Content für Ihren E-Mail-Versand verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30080?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zur Personalisierung finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).

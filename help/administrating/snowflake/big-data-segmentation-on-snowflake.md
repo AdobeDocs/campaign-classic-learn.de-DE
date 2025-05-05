@@ -30,6 +30,6 @@ Sie werden folgende Aufgaben erlernen:
 * Daten suchen und Berichte erstellen
 * Daten in Listen exportieren und echtzeitbasierte Zielgruppenbestimmungsfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35585?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zum Konfigurieren des Zugriffs auf Snowflake finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=de#installing-campaign-classic).

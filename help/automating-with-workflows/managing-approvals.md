@@ -22,6 +22,6 @@ ht-degree: 50%
 Validierungen ermöglichen Benutzern, Entscheidungen über einen Workflow zu treffen oder dessen Ausführung zu bestätigen.
 Erfahren Sie, wie Sie Genehmigungen und Kampagnen einrichten und zwischen Versand- und Workflow-Genehmigungen unterscheiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452625?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zum Definieren von Genehmigungen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=de#sending-emails).

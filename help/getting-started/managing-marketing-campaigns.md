@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Machen Sie sich mit den wichtigsten Konzepten von [!UICONTROL Adobe Campaign] vertraut, die Sie bei der effektiven Planung, Ausführung und Messung von Cross-Channel-Marketing-Kampagnen unterstützen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326572?quality=12&learn=on&captions=ger){transcript=true}

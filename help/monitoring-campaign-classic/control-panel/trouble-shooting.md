@@ -41,11 +41,11 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ### Nützliche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34928?quality=12&learn=on&captions=ger){transcript=true}
 
 *IMS-Organisations-ID prüfen (00:26 Min.)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34781?quality=12&learn=on&captions=ger){transcript=true}
 
 *Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
 

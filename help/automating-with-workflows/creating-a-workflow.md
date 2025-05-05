@@ -22,4 +22,4 @@ Adobe Campaign enthält ein Workflow-Modul, mit dem Sie die gesamte Bandbreite v
 
 In diesem Video wird erläutert, wie Sie einen Workflow in Adobe Campaign Classic erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30533?quality=12&learn=on&captions=ger){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Anzahl der Kampagnen-Workflows erhöhen, die parallel auf der Instanz ausgeführt werden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436583?quality=12&learn=on&captions=ger){transcript=true}

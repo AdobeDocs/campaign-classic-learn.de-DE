@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie im Workflow einen unbedingten Stopp ordnungsgemäß durchführen
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437456?quality=12&learn=on&captions=ger){transcript=true}

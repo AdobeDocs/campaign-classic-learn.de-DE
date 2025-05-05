@@ -34,18 +34,18 @@ Vor der Aktivierung von Genehmigungsschritten muss das Marketing-Team die einzel
 
 Wenn Sie in Ihrem Kampagnen-Workflow für alle Sendungen dieselben Validierungsverantwortlichen haben, wenden Sie die Genehmigungsfunktion der Kampagne an, indem Sie Genehmigungen und Validierungsverantwortliche auf Kampagnenebene einrichten. Die Genehmigungsaufgaben und Validierungsverantwortlichen werden nach der Ausführung des Workflows in jede Versandaktivität Ihres Workflows übertragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30083?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Konfigurieren von Genehmigungen auf Versandebene   {#configuring-approvals-for-deliveries}
 
 Sie können Genehmigungen auch auf Versandebene einrichten. Wenn sich die Genehmigungsschritte und Validierungsverantwortlichen für den Versand von denen für Kampagnen unterscheiden, wird die Kampagnenkonfiguration durch die Versandeinstellungen außer Kraft gesetzt.
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31324?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Konfigurieren von Genehmigungsaktivitäten   {#configuring-an-approval-activity}
 
 Im Gegensatz zu Versand- oder Kampagnengenehmigungen ermöglicht die Genehmigungsaktivität die Erstellung eines Genehmigungsprozesses innerhalb eines Workflows. Auf diese Weise kann die Auswahllogik der Zielgruppenbestimmung vor Beginn des Versands validiert werden. Bei Bedarf sind Genehmigungen auch auf mehreren Ebenen innerhalb des Workflows zulässig.
 
->[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27483?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Dokumentation zu Genehmigungen](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=de).

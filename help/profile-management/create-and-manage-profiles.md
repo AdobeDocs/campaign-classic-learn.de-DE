@@ -25,4 +25,4 @@ Verstehen Sie das Konzept der Profile in Adobe Campaign Classic. Erfahren Sie, w
 
 In diesem Video wird auch die Einhaltung der Datenschutz-Grundverordnung (DSGVO) und des California Consumer Privacy Act (CCPA) durch Adobe Campaign Classic erläutert.
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326750?quality=12&learn=on&captions=ger){transcript=true}

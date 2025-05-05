@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie den Inhalt eines E-Mail-Versands konfigurieren, personalisieren und testen können. Erfahren Sie, wie Sie Vorlagen verwenden, Bilder hochladen, Emoticons hinzufügen und Barcodes und QR-Codes einbetten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453871?learn=on&captions=ger){transcript=true}

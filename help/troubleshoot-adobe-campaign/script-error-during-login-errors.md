@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Fehler oder Warnhinweise beheben können, die bei der Anmeldung bei Adobe Campaign angezeigt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436223?quality=12&learn=on&captions=ger){transcript=true}

@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Best Practices für die Optimierung der Zustellbarkeit auf Ihre Kampagne anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452567?quality=12&learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie einen E-Mail-Versand direkt aus einer Kampagne erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27488?quality=12&learn=on&captions=ger){transcript=true}

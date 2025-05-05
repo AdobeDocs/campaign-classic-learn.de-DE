@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine [!DNL push]-Benachrichtigung für Benutzer von [!DNL Android]-Anwendungen konfigurieren und senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340728?quality=12&learn=on&captions=ger){transcript=true}
 
 **Vorheriger Schritt**
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Adobe Campaign Classic in das Portfolio von Adobe Digital Experience eingebunden ist, und erhalten Sie einen Überblick über die wichtigsten Leistungsmerkmale und Funktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39515?quality=12&learn=on&captions=ger){transcript=true}

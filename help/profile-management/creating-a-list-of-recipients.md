@@ -23,4 +23,4 @@ Eine Liste ist ein statischer Satz von Empfängern, die in Versandaktionen als Z
 
 Erfahren Sie mehr über das Erstellen einer Audience durch Konfigurieren einer Empfängerliste aus dem Explorer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27502?learn=on&captions=ger){transcript=true}

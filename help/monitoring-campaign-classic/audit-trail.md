@@ -41,6 +41,6 @@ Das [!UICONTROL Audit-Protokoll] führt Operatoraktionen wie das Erstellen, Änd
 
 Im folgenden Video erfahren Sie, wo Sie auf die Audit-Protokolle zugreifen können und welche Einstellungen sich konfigurieren lassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33912?quality=12&learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=de).
