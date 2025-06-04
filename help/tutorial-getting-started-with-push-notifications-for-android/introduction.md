@@ -11,7 +11,7 @@ level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '355'
 ht-degree: 100%
 
@@ -41,7 +41,7 @@ Bevor Sie beginnen können, benötigen Sie Folgendes:
 
    Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie diese installieren können, falls dies nicht der Fall ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/340422?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Tutorial-Übersicht
 
