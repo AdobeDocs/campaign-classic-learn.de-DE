@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 100%
    + [Profilimport](/help/data-management/importing-profiles.md)
    + [Erstellen einer Empfängerliste](/help/profile-management/creating-a-list-of-recipients.md)
    + [Erstellen einer Liste von Empfängern mit einem Workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
-+ Senden von Nachrichten {#sending-messages}
++ Senden von Nachrichten{#sending-messages}
    + E-Mail-Kanal{#email-channel}
       + [Erstellen und Entwerfen von E-Mail-Sendungen](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Gestalten von E-Mail-Versandinhalten](/help/sending-messages/email-channel/design-email-delivery-content.md)
@@ -50,24 +50,24 @@ ht-degree: 100%
       + [Maximieren Sie den E-Mail-ROI und Best Practices für die Rückgewinnung von Abonnenten.](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=de)
       + [Best Practices für die Optimierung der Zustellbarkeit](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=de)
    + SMS-Kanal {#sms-channel}
-      + [SMS-Versand erstellen](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
+      + [Erstellen eines SMS-Versands](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Push-Kanal {#push-channel}
       + [Installieren des Mobile-App-Kanals](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Erste Schritte mit Push-Benachrichtigungen für Android (Tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=de)
-   + Briefpost {#direct-mail}
+   + Direkt-Mail {#direct-mail}
       + [Erstellen von Briefpostsendungen](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + Verwenden von Versandvorlagen {#using-delivery-templates}
+   + Verwenden von Versandvorlagen{#using-delivery-templates}
       + [Konfigurieren einer Versandvorlage](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Festlegen der Eigenschaften einer Versandvorlage](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Ermüdungsverwaltung {#fatigue-management}
+   + Ermüdungsverwaltung{#fatigue-management}
       + [Verwenden von Typologieregeln](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Verwenden von vordefinierten Filtern](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Überwachung von Nachrichten {#monitoring-messages}
+   + Nachrichten überwachen {#monitoring-messages}
       + [Funktionsweise der Quarantäneverwaltung](/help/sending-messages/quarantine-management.md)
    + [Konfigurieren und Verwalten von Anmeldediensten](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ Kampagnen orchestrieren {#orchestration}
++ Orchestrieren von Kampagnen {#orchestration}
    + [Ausführen einer Kampagne](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Einführung in Multi-Channel- und Cross-Channel-Kampagnen](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Erstellen von Multi-Channel-Kampagnen](/help/orchestrating-campaigns/multi-channel-campaigns.md)
@@ -92,19 +92,19 @@ ht-degree: 100%
    + [Konfigurieren von Landingpages](/help/designing-content/configure-landingpages.md)
    + [Erstellen eines Präferenzzentrums](/help/designing-content/create-a-preference-center.md)
 + [Erstellen einer Umfrage](/help/designing-content/create-a-survey.md)
-+ Überwachen von {#monitoring}
++ Überwachen {#monitoring}
    + [Workflow-Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit-Protokoll](/help/monitoring-campaign-classic/audit-trail.md)
 + Daten-Management {#data-management}
    + [Abfragedaten](/help/data-management/query-data.md)
-+ Integrieren von {#integrating}
++ Integrieren {#integrating}
    + [Integration mit Adobe Target](/help/integrations/target-integration.md)
    + [Integration mit Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Verwalten von {#administrating}
++ Verwalten {#administrating}
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
    + Zugriff auf externe Datenbanken (FDA) {#fda}
       + [Verwaltung von Big Data [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Fehlerbehebung in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=de)
-+ Strategie und Vordenkerposition{#strategy}
++ Strategie und Vordenkerrolle{#strategy}
    + [Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute](/help/strategy/10-best-practices-for-marketers.md)
