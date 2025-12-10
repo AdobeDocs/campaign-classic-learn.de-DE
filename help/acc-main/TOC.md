@@ -1,19 +1,19 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Tutorials zu Adobe Campaign Classic v7
+user-guide-title: Tutorials zu Adobe Campaign Classic v7
 user-guide-description: Videos und Tutorials zu Adobe Campaign Classic v7.
 breadcrumb-title: Tutorials zu Campaign Classic v7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
-# Tutorials zu Adobe Campaign Classic v7 {#tutorials}
+# Tutorials zu Adobe Campaign Classic v7 {#tutorials}
 
 + [Adobe Campaign Classic V7 – Tutorials](/help/overview.md)
 + Erste Schritte {#getting-started}
@@ -24,7 +24,7 @@ ht-degree: 96%
    + [Erstellen von Marketing-Plänen, -Programmen und -Kampagnen](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Erstellen einer Kampagne und einer E-Mail](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Bestimmung der Zielgruppenprofile in einem Workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Durch ein Ereignis ausgelöste Kampagnen erstellen](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Erstellen von durch ein Ereignis ausgelösten Kampagnen](/help/getting-started/create-event-triggered-campaigns.md)
 + Profil-Management {#profile-management}
    + [Erstellen und Verwalten von Profilen](/help/profile-management/create-and-manage-profiles.md)
    + [Profilimport](/help/data-management/importing-profiles.md)
@@ -55,16 +55,16 @@ ht-degree: 96%
       + [Installieren des Mobile-App-Kanals](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Konfigurieren des Push-Kanals mit dem Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Erste Schritte mit Push-Benachrichtigungen für Android (Tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=de)
-   + Direkt-Mail {#direct-mail}
+   + Briefpost {#direct-mail}
       + [Erstellen von Briefpostsendungen](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Verwenden von Versandvorlagen{#using-delivery-templates}
       + [Konfigurieren einer Versandvorlage](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Festlegen der Eigenschaften einer Versandvorlage](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Bereitstellen einer Ad-hoc-E-Mail-Versandvorlage](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Ermüdungsverwaltung{#fatigue-management}
+   + Ermüdungs-Management{#fatigue-management}
       + [Verwenden von Typologieregeln](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Verwenden von vordefinierten Filtern](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Nachrichten überwachen {#monitoring-messages}
+   + Überwachung von Nachrichten {#monitoring-messages}
       + [Funktionsweise der Quarantäneverwaltung](/help/sending-messages/quarantine-management.md)
    + [Konfigurieren und Verwalten von Anmeldediensten](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrieren von Kampagnen {#orchestration}
@@ -97,10 +97,10 @@ ht-degree: 96%
    + [Audit-Protokoll](/help/monitoring-campaign-classic/audit-trail.md)
 + Daten-Management {#data-management}
    + [Abfragedaten](/help/data-management/query-data.md)
-+ Integrieren {#integrating}
++ Integration {#integrating}
    + [Integration mit Adobe Target](/help/integrations/target-integration.md)
    + [Integration mit Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Verwalten {#administrating}
++ Verwaltung {#administrating}
    + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=de){target="_blank"}
    + [Einrichten von SMS für Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=de)
    + Zugriff auf externe Datenbanken (FDA) {#fda}
