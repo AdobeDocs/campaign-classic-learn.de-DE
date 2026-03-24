@@ -8,10 +8,10 @@ level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
 workflow-type: tm+mt
-source-wordcount: '1265'
-ht-degree: 99%
+source-wordcount: '1354'
+ht-degree: 87%
 
 ---
 
@@ -22,67 +22,69 @@ Christian Klimczyk bezeichnet sich selbst als „Adobe-Nerd“ und verfügt übe
 In diesem Artikel verrät Christian seine Best Practices, die Nutzerinnen und Nutzern von Adobe Campaign dabei unterstützen, den digitalen verbraucherbezogenen Wandel zu beschleunigen und ihren Kundinnen und Kunden ein besseres Erlebnis zu bieten.
 
 
-## 1. Einen umfassenden und kohärenten Marketing- und Versandplan erstellen
+## &#x200B;1. Erstellen eines umfassenden und kohärenten Marketing- und Bereitstellungsplans
 
 Der erste Schritt für Ihren nachhaltigen Erfolg mit [!DNL Adobe Campaign] ist ein umfassendes Verständnis Ihrer Tools und Kundenerwartungen. Das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
 
-Adobe Campaign ist ein flexibles Tool, mit dem Sie Ihre Kommunikationsaktivitäten auf vielfältige Weise ausführen und steuern können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
+Adobe Campaign ist ein flexibles Tool, mit dem Sie Ihre Kommunikationsaktivitäten auf vielfältige Weise ausführen und koordinieren können. [Die Hälfte der Kunden interagiert bei jedem Kauf von Journey](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters) über drei bis fünf Kanäle. Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
-## 2. Kundendaten dokumentieren und verstehen
+## &#x200B;2. Dokumentieren und Verstehen Ihrer Kundendaten
 
-<!-- Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
+<!--
+Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
 
 "A study by Hubspot revealed that 30% of the marketers who participated in it used market segmentation techniques to improve email engagement. Segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns.
 
 "Email marketers who segmented their audience before campaigning stated that the revenue generated increased to up to 760%. Targeted and segmented emails bring in 58% of all revenue." [Link](https://www.notifyvisitors.com/blog/segmentation-statistics/) 
 
-I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
+I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...
+-->
 
-Gemäß einer [Hubspot-Studie](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen) zeigten segmentierte Kampagnen 14,31 % höhere Öffnungsraten und 101 % mehr Klicks als nicht segmentierte Kampagnen. Fachleute für E-Mail-Marketing, die ihre Audience vor der Kampagne segmentiert haben, gaben an, dass der erzielte Umsatz um bis zu 760 % gestiegen ist.
+Gemäß einer [Hubspot-Studie](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen) zeigten segmentierte Kampagnen 14,31 % höhere Öffnungsraten und 101 % mehr Klicks als nicht segmentierte Kampagnen. Fachleute für E-Mail-Marketing, die ihre Zielgruppe vor der Kampagne segmentiert haben, gaben an, dass der erzielte Umsatz um bis zu 760 % gestiegen ist.
 
 In Adobe Campaign können Sie die Segmentierung schnell und einfach orchestrieren. Um diesen Prozess zu optimieren und zu erleichtern, müssen Kampagnenbetreiberinnen und -betreiber und Marketing-Fachkräfte jedoch über dokumentierte Kenntnisse ihrer zugrunde liegenden Daten verfügen, wenn sie eine Kampagnenerstellung und -ausführung erstellen oder anfordern. Wenn Sie mit Personen aus den Bereichen Administration und Entwicklung zusammenarbeiten, die Ihre [!DNL Campaign]-Instanz unterstützen, sollten Sie Ihre aktuellen Daten kennen und wissen, wie Sie eventuell benötigte Daten antizipieren können.
 
 Ihre Kampagnen sind nur so gut wie die zugrunde liegenden Datenstrukturen, auf denen sie aufbauen. Das Wissen zu dieser Datenstruktur und eine entsprechende Dokumentation helfen auch bei Problemen bei der Integration von Plattformen oder beim Wechsel zu einer Verbraucherdatenplattform.
 
-## 3. Den Zeitpunkt von Kampagnen planen
+## &#x200B;3. Den Zeitpunkt für Kampagnen planen
 
 Genau wie Ihre Kundinnen und Kunden haben Sie eine tägliche Routine. Der Versand und die Orchestrierung Ihrer Kampagnen sollten diesem Rhythmus entsprechen. Andernfalls können Sie Ihre Kundinnen und Kunden möglicherweise nicht erreichen, da [85 % der gesendeten E-Mails nicht geöffnet werden und 98 % keine Klickrate erhalten](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Es ist auch wichtig, das Heatmap-Tool in [!DNL Campaign] zu nutzen. Damit können Sie verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Ausführung von Kommunikationsaktivitäten über mehrere Marken hinweg kann eine Herausforderung darstellen. Für die allgemeine Stabilität und Stärke Ihrer Nachricht und Campaign-Instanz ist es von unschätzbarem Wert, [den Rhythmus, die Kadenz und das Timing Ihrer E-Mails im Auge zu behalten und zu kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de).
+Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Es ist auch wichtig, das Heatmap-Tool in [!DNL Campaign] zu nutzen. Damit können Sie verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Erleichterung der Kommunikation über mehrere Marken hinweg kann eine Herausforderung darstellen. [Für die allgemeine Stabilität und Stärke Ihrer Nachricht und Campaign-Instanz ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de) es von unschätzbarem Wert, den Rhythmus, die Kadenz und das Timing Ihrer E-Mails im Auge zu behalten und zu kennen.
 
-## 4. Personalisierung dort verwenden, wo es von Bedeutung ist
+## &#x200B;4. Personalisierung dort verwenden, wo es von Bedeutung ist
 
-Heutzutage erwarten die Verbraucherinnen und Verbraucher eine gewisse Personalisierung der Nachrichten, die sie erhalten. [80 % der Personen kaufen eher von einer Marke, die ihnen personalisierte Erlebnisse bietet](https://us.epsilon.com/power-of-me). Der eigene Name in der Betreffzeile ist großartig. Die Personalisierung kann jedoch viel weiter gehen. Sie können bereits angesehene Produkte einbeziehen, auf ähnliche Produkte verweisen oder das kohärente Erlebnis und Erscheinungsbild Ihrer Marke kontinuierlich stärken. Jedes Detail zählt und steigert die Interaktion mit Ihren Nachrichten sowie deren Öffnungsraten.
+Heutzutage erwarten die Verbraucher eine gewisse Personalisierung der Nachrichten, die sie erhalten. [80 % der Kunden kaufen eher von einer Marke, die ihnen personalisierte Erlebnisse bietet](https://us.epsilon.com/power-of-me). Der eigene Name in der Betreffzeile ist großartig. Die Personalisierung kann jedoch viel weiter gehen. Sie können bereits angesehene Produkte einbeziehen, auf ähnliche Produkte verweisen oder das kohärente Erlebnis und Erscheinungsbild Ihrer Marke kontinuierlich stärken. Jedes Detail zählt und steigert die Interaktion mit Ihren Nachrichten sowie deren Öffnungsraten.
 
-## 5. Ein stabiles Inventar von Kreativ-Assets verfügbar haben
+## &#x200B;5. Ein stabiles Inventar von Kreativ-Assets
 
 Kreativ-Assets sind der Treibstoff für eine effektive und gut laufende Engine zum Kampagnenversand. Je erfolgreicher Sie beim Erreichen Ihrer Verbraucherinnen und Verbraucher sind und je mehr Sie Ihre Marketing-Prozesse skalieren und optimieren, desto mehr kreative Inhalte benötigen Sie. Die Verbraucherinnen und Verbraucher erwarten dies.
 
 Sie sind nur so schnell wie der nächste Versand, den Ihr Team konfigurieren kann. Häufig erfordert dies neue und aufregende Inhalte. [!DNL Adobe Campaign] vereinfacht die Konfiguration von Vorlagen sowie den Empfang und die Vorbereitung dieser Sendungen. Eine gesunde Pipeline der kreativen Inhalte ist jedoch von entscheidender Bedeutung. Gemäß einem [Litmus-Bericht](https://www.litmus.com/resources/state-of-email/) gaben 58 % der Marketing-Fachkräfte an, dass die Erstellung einer einzelnen E-Mail-Kampagne zwei Wochen oder länger dauert.
 
-## 6. Abonnements und Voreinstellungen verstehen und verwalten
+## &#x200B;6. Abonnements und Voreinstellungen verstehen und verwalten
 
 Die Verwaltung und Pflege von Abonnementvoreinstellungen kann schnell unübersichtlich werden und verschiedene Risiken mit sich bringen. Ähnlich wie beim Versand der falschen Nachricht über einen nicht aktiv genutzten Kanal geben neun von zehn Personen an, dass sie nach einer negativen Erfahrung in Zukunft mit geringerer Wahrscheinlichkeit bei einer Marke einkaufen werden. In größerem Maßstab kann dies regulatorische und Compliance-Risiken sowie Geldbußen zur Folge haben.
 
 Entwickeln Sie im Vorfeld eine Strategie für die Verwaltung von Opt-ins und die Pflege dieses sich ständig weiterentwickelnden Ökosystems durch den professionellen Einsatz von [!DNL Adobe Campaign] und anderen Marketing-Technologie-Tools. Häufig ist dies eine der größten Erfolgsmetriken für Kampagnen. Eine sorgfältige Planung hat daher unschätzbare Vorteile, wenn Ihre Kampagnenstrategie wächst und sich weiterentwickelt.
 
-## 7. Zustellbarkeit verstehen und planen
+## &#x200B;7. Zustellbarkeit verstehen und planen
 
 _Zustellbarkeit_ erscheint oft als mystisches und kompliziertes Konzept. Eine wichtige Grundregel der Zustellbarkeit ist die strategische Planung. Das „Aufwärmen“ von IP-Adressen und der Aufbau einer guten Reputation erfordern Zeit. Diese Reputation kann schnell zurückgehen, was es schwierig macht, bereits eingetretene Schäden zu beheben. Tatsächlich **erreicht eine von sechs E-Mails den Posteingang nicht**.
 
 Zustellbarkeitsprobleme können durch verschiedene Faktoren verursacht werden – entweder durch technische Faktoren oder durch die Art und Weise, wie Personen auf Ihr Marketing reagieren. Sie sollten die [Zustellbarkeit](https://business.adobe.com/de/products/campaign/email-deliverability.html) bei der Erstellung und Durchführung von Kampagnen und bei retrospektiven Prozessen im Auge behalten. Damit können Sie sicherstellen, dass Sie ein gesundes und stabiles Umfeld aufrechterhalten und Ihren Kundinnen und Kunden weiterhin positive Erfahrungen bieten.
 
-## 8. Einen retrospektiven Prozess für Kampagnen planen und entwickeln
+## &#x200B;8. Planen und Entwickeln eines retrospektiven Prozesses für Kampagnen
 
 So sehr Sie auch mit dem Versand und der Orchestrierung von Kampagnen beschäftigt sind, es ist oft genauso wichtig, wenn nicht sogar wichtiger, das Erreichte zu überprüfen und Ihre Prozesse sowie die Segmentierung Ihrer Kampagnen neu auszuwerten. Führen Sie je nach Umfang und Geschwindigkeit Ihrer Kampagnenausführungen alle zwei bis vier Wochen Retrospektiven zu den Kampagnen durch.
 
 Die Erstellung eines Fragenkatalogs kann Ihnen dabei helfen, detailliert zu besprechen, wie Sie die Vorlaufzeiten von Kampagnen, die kreativen Inhalte oder die Segmentierung verbessern können, um nur einige Themen zu nennen. Sie können sich manchmal nur verbessern und schneller werden, wenn Sie aus dem lernen, was Sie zuvor getan haben.
 
-## 9. Prüfen und Wiederholen
+## &#x200B;9. Testen und iterieren
 
 Wenn neue Dinge ausprobiert werden, funktioniert es nicht immer gleich beim ersten Mal. Daher ist es entscheidend, Ihre Prozesse und Taktiken zu testen und erneut zu durchlaufen. Versuchen Sie es mit einer Gruppe von Personen, die eine lange Perspektive haben oder gut geeignet sein könnten. Werden Sie kreativ. Probieren Sie einen neuen Aktionsaufruf aus. Veränderungen nur um der Veränderung willen sind nicht produktiv – aber viele kleine und präzise Experimente im Laufe der Zeit können zu potenziell großen zukünftigen Gewinnen für Sie und Ihre Kundschaft führen.
 
-## 10. So agil wie möglich bleiben
+## &#x200B;10. So agil wie möglich bleiben
 
 Der Markt verändert sich weiter, und zwar mit immer schnellerer Geschwindigkeit. Wenn Sie Ihre Kampagnen-Teams ermutigen, so flexibel und agil wie möglich zu bleiben, bleiben Sie wettbewerbsfähig und können die wachsenden Kundenerwartungen weiterhin erfüllen.
 
