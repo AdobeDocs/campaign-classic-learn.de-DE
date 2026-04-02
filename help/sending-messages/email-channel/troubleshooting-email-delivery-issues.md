@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '26'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Probleme im Zusammenhang mit dem E-Mail-Versand in Campaign beheben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/343538?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}

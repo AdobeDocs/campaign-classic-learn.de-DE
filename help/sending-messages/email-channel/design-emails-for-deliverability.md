@@ -11,8 +11,8 @@ role: User
 level: Intermediate
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
-workflow-type: tm+mt
-source-wordcount: '36'
+workflow-type: ht
+source-wordcount: '45'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Best Practices für die Optimierung der Zustellbarkeit auf Ihre Kampagne anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452567?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 

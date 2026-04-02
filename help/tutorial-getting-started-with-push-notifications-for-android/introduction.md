@@ -12,7 +12,7 @@ recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: ht
-source-wordcount: '355'
+source-wordcount: '388'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Bevor Sie beginnen können, benötigen Sie Folgendes:
 
    Eine ausführliche Beschreibung der erforderlichen Schritte finden Sie in der Produktdokumentation:
 
-   [Integration des Campaign SDK in Mobile Apps](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=de)
+   [Integration des Campaign SDK in die App](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=de)
 
    Sie können auch das Experience Platform Mobile SDK verwenden. Sehen Sie sich für weiterführende Informationen das folgende Tutorial-Video an:
 
@@ -41,7 +41,7 @@ Bevor Sie beginnen können, benötigen Sie Folgendes:
 
    Das [!DNL Mobile App channel]-Paket muss in Ihrer [!DNL Campaign]-Instanz installiert sein. Im folgenden Video wird erläutert, wie Sie überprüfen können, ob [!DNL Mobile App channel] in Ihrer Instanz installiert ist, und wie Sie diese installieren können, falls dies nicht der Fall ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/340422?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Tutorial-Übersicht
 

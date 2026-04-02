@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '34'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie einen E-Mail-Versand direkt aus einer Kampagne erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27488?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}

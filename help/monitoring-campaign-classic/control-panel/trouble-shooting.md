@@ -7,8 +7,8 @@ doc-type: article
 activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '323'
+workflow-type: ht
+source-wordcount: '363'
 ht-degree: 100%
 
 ---
@@ -41,18 +41,18 @@ Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte,
 
 ### Nützliche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/34928?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
 
-*IMS-Organisations-ID prüfen (00:26 Min.)*
+*Überprüfen der IMS-Org-ID (00:26 Min.)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34781?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
 
-*Hinzufügen eines Administrators zum Produktprofil „Administratoren“ für die Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
+*Hinzufügen von Admins zum Admin-Produktprofil zur Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
 
 ### Nützliche Dokumentation
 
-* [Funktionsweise des Control Panels](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
-* [[!UICONTROL Verwalten von Berechtigungen für das ]Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
+* [Funktionsweise des Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
+* [Verwalten von Berechtigungen für das [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=de)
 
 ## Herstellen einer Verbindung zum SFTP-Server (Client oder API)
 

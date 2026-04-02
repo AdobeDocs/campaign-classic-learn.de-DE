@@ -11,9 +11,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Adobe Campaign Classic in das Portfolio von Adobe Digital Experience eingebunden ist, und erhalten Sie einen Überblick über die wichtigsten Leistungsmerkmale und Funktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/39515?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}

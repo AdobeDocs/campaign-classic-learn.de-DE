@@ -11,7 +11,7 @@ level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: ht
-source-wordcount: '159'
+source-wordcount: '174'
 ht-degree: 100%
 
 ---
@@ -41,6 +41,6 @@ Das [!UICONTROL Audit-Protokoll] führt Operatoraktionen wie das Erstellen, Änd
 
 Im folgenden Video erfahren Sie, wo Sie auf die Audit-Protokolle zugreifen können und welche Einstellungen sich konfigurieren lassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/33912?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 Weitere Informationen finden Sie in der [Dokumentation zum Audit-Protokoll](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=de).

@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: da1f498c-b60a-4835-ace0-b99911221bd2
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '32'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine durch ein Ereignis ausgelöste Kampagne erstellen und wie Sie diese Funktion für sich nutzen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451880?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12&learn=on){transcript=true}
