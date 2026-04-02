@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie das Problem mit fehlenden Kampagnentiteln in Analytics beheben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436815?captions=ger&quality=12&learn=on){transcript=true}

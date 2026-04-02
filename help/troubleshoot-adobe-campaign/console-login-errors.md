@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Fehler bei der Anmeldung bei der Konsole beheben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437775?captions=ger&quality=12&learn=on){transcript=true}

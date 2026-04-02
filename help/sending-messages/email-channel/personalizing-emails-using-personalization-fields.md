@@ -23,6 +23,6 @@ Personalisierungsfelder dienen zur Personalisierung des Inhalts gesendeter Nachr
 
 Erfahren Sie, wie Sie der Betreffzeile und dem Inhalt eines E-Mail-Versands ein Personalisierungsfeld hinzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30081?captions=ger&quality=12&learn=on){transcript=true}
 
 Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).
