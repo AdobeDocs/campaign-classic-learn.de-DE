@@ -6,11 +6,26 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
-last-substantial-update: 2023-01-31T00:00:00Z
+last-substantial-update: 2023-01-31T00:00:00.000Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/jiq7zZmYG0oBm3EEDbovZSuYXSN1mAChXMMrc656tJg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: a658c786-869b-4194-a780-2594d663adda
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -26,7 +41,7 @@ In diesem Artikel verrät Christian seine Best Practices, die Nutzerinnen und Nu
 
 Der erste Schritt für Ihren nachhaltigen Erfolg mit [!DNL Adobe Campaign] ist ein umfassendes Verständnis Ihrer Tools und Kundenerwartungen. Das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
 
-Adobe Campaign ist ein flexibles Tool, mit dem Sie Ihre Kommunikationsaktivitäten auf vielfältige Weise ausführen und steuern können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters).Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
+Adobe Campaign ist ein flexibles Tool, mit dem Sie Ihre Kommunikationsaktivitäten auf vielfältige Weise ausführen und steuern können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
 ## &#x200B;2. Kundendaten dokumentieren und verstehen
 
@@ -50,11 +65,11 @@ Ihre Kampagnen sind nur so gut wie die zugrunde liegenden Datenstrukturen, auf d
 
 Genau wie Ihre Kundinnen und Kunden haben Sie eine tägliche Routine. Der Versand und die Orchestrierung Ihrer Kampagnen sollten diesem Rhythmus entsprechen. Andernfalls können Sie Ihre Kundinnen und Kunden möglicherweise nicht erreichen, da [85 % der gesendeten E-Mails nicht geöffnet werden und 98 % keine Klickrate erhalten](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Es ist auch wichtig, das Heatmap-Tool in [!DNL Campaign] zu nutzen. Damit können Sie verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Ausführung von Kommunikationsaktivitäten über mehrere Marken hinweg kann eine Herausforderung darstellen. [Den Rhythmus, die Kadenz und das Timing Ihrer E-Mails im Auge zu behalten und zu kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de), ist für die allgemeine Stabilität und Stärke Ihrer Nachricht und Campaign-Instanz von unschätzbarem Wert.
+Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Es ist auch wichtig, das Heatmap-Tool in [!DNL Campaign] zu nutzen. Damit können Sie verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Ausführung von Kommunikationsaktivitäten über mehrere Marken hinweg kann eine Herausforderung darstellen. Für die allgemeine Stabilität und Stärke Ihrer Nachricht und Campaign-Instanz ist es von unschätzbarem Wert, [den Rhythmus, die Kadenz und das Timing Ihrer E-Mails im Auge zu behalten und zu kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de).
 
 ## &#x200B;4. Personalisierung dort verwenden, wo es von Bedeutung ist
 
-Heutzutage erwarten die Verbraucherinnen und Verbraucher eine gewisse Personalisierung der Nachrichten, die sie erhalten. [80 % der Personen kaufen eher von einer Marke, die ihnen personalisierte Erlebnisse bietet](https://us.epsilon.com/power-of-me).Der eigene Name in der Betreffzeile ist großartig. Die Personalisierung kann jedoch viel weiter gehen. Sie können bereits angesehene Produkte einbeziehen, auf ähnliche Produkte verweisen oder das kohärente Erlebnis und Erscheinungsbild Ihrer Marke kontinuierlich stärken. Jedes Detail zählt und steigert die Interaktion mit Ihren Nachrichten sowie deren Öffnungsraten.
+Heutzutage erwarten die Verbraucherinnen und Verbraucher eine gewisse Personalisierung der Nachrichten, die sie erhalten. [80 % der Personen kaufen eher von einer Marke, die ihnen personalisierte Erlebnisse bietet](https://us.epsilon.com/power-of-me). Der eigene Name in der Betreffzeile ist großartig. Die Personalisierung kann jedoch viel weiter gehen. Sie können bereits angesehene Produkte einbeziehen, auf ähnliche Produkte verweisen oder das kohärente Erlebnis und Erscheinungsbild Ihrer Marke kontinuierlich stärken. Jedes Detail zählt und steigert die Interaktion mit Ihren Nachrichten sowie deren Öffnungsraten.
 
 ## &#x200B;5. Ein stabiles Inventar von Kreativ-Assets verfügbar haben
 
