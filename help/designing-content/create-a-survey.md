@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie in Adobe Campaign Classic eine Umfrage erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448082/?captions=ger&learn=on){transcript=true}

@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Zielgruppe einschränken können, indem Sie Abfrageergebnisse in einem Workflow kombinieren, indem Sie die Aktivität **[!UICONTROL Schnittmenge]** oder **[!UICONTROL Vereinigung]** verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326548?captions=ger&quality=12&learn=on){transcript=true}

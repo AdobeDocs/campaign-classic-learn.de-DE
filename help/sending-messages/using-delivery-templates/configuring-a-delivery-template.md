@@ -44,4 +44,4 @@ Eine Vorlage kann systematisch Folgendes enthalten:
 
 Das folgende Video zeigt, wie man eine Vorlage für einen Ad-hoc-Versand konfiguriert.
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27531?captions=ger&quality=12&learn=on){transcript=true}

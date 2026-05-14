@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Ihre Zielgruppe einschränken, indem Sie einen **[!UICONTROL Standardausschluss]** auf einen Workflow anwenden. Außerdem erfahren Sie, wie Sie vordefinierte Filter erstellen und Probleme mit Workflows beheben.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326453?captions=ger&quality=12&learn=on){transcript=true}

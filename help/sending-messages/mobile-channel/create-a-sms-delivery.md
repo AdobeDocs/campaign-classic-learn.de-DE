@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie einen SMS-Versand erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/330982?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441436?captions=ger&learn=on){transcript=true}

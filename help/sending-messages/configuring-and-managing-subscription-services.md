@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Anmeldungen und Abonnements einrichten und verwalten und Zielgruppen adressieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452446?captions=ger&quality=12&learn=on){transcript=true}

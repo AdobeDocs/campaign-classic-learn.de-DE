@@ -29,4 +29,4 @@ ht-degree: 0%
 
 In diesem Video wird erläutert, wie Profile in Adobe Campaign Classic importiert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328394?captions=ger&quality=12&learn=on){transcript=true}

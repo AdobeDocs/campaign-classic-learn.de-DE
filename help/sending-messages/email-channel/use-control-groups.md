@@ -30,7 +30,7 @@ ht-degree: 100%
 
 Machen Sie sich mit dem Konzept der Kontrollgruppen vertraut und erfahren Sie, wie Sie für Ihren Versand eine Kontrollgruppe verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449979?captions=ger&quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >Wenn im Zielgruppenbestimmungs-Workflow mehrere Sendungen enthalten sind, müssen Sie die Kontrollgruppeneinstellungen sowohl auf Versandebene als auch in den Kampagneneinstellungen aktivieren.

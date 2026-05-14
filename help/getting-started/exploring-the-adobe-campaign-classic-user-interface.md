@@ -30,4 +30,4 @@ ht-degree: 100%
 
 In dieser Lektion lernen Sie die Hauptbenutzeroberfläche von Adobe Campaign Classic kennen und erhalten Informationen über das Navigieren zwischen den Hauptfunktionen.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39531?captions=ger&quality=12&learn=on){transcript=true}

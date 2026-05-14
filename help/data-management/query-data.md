@@ -30,4 +30,4 @@ ht-degree: 18%
 
 Erfahren Sie, wie Sie Daten mit dem Abfrage-Editor abfragen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447879?captions=ger&quality=12&learn=on){transcript=true}
