@@ -1,6 +1,6 @@
 ---
 title: Erweitern des App-Abonnementschemas zum Personalisieren von Push-Benachrichtigungen
-description: Erfahren Sie, wie Sie das App-Abonnementschema erweitern, um Personalisierungswerte speichern zu können, die Campaign von einer Mobile App erhält.
+description: Erfahren Sie, wie Sie das Mobile-App-Abonnementschema erweitern, um Personalisierungswerte speichern zu können, die Campaign von einer Mobile App erhält.
 feature: Push, Schema Extension
 jira: KT-6451
 thumbnail: 327306.jpg
@@ -10,9 +10,13 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/epoqi-wtTbA12Ham41xZvdzcpDZ3PiC48Wr-kqvPcfM
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: 75
 ht-degree: 100%
 
 ---
@@ -21,7 +25,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie das [!UICONTROL App-Abonnementschema] erweitern, um Personalisierungswerte zu speichern, die [!DNL Campaign] von einer Mobile App erhält.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445561?quality=12&learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **Nächster Schritt**
 
