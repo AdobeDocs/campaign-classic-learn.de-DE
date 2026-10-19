@@ -31,7 +31,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ In einer Cross-Channel-Kampagne nutzt eine einzelne Marketing-Kommunikation vers
 
 Erfahren Sie, wie Sie eine Cross-Channel-Kampagne erstellen, indem Sie E-Mail- und Briefpost-Sendungen verwenden, die auf der Interaktion des Kunden mit dem ersten Versand basieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453530?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on){transcript=true}

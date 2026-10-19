@@ -31,7 +31,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ Durch die Konfiguration bedingter Inhalte können Sie erweiterte Personalisierun
 
 Erfahren Sie am Beispiel eines mehrsprachigen Newsletters, wie Sie einem Versand bedingte Inhalte hinzufügen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/30082?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
 Weitere Informationen zur Personalisierung finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=de).

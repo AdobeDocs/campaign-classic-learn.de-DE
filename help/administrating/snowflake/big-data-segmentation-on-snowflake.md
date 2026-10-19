@@ -41,7 +41,7 @@ topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
     internal-label: Data management
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
 ht-degree: 100%
 ---
@@ -59,6 +59,6 @@ Sie werden folgende Aufgaben erlernen:
 * Daten suchen und Berichte erstellen
 * Daten in Listen exportieren und echtzeitbasierte Zielgruppenbestimmungsfilter erstellen
 
->[!VIDEO](https://video.tv.adobe.com/v/35585?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
 Weitere Informationen zum Konfigurieren des Zugriffs auf Snowflake finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=de#installing-campaign-classic).

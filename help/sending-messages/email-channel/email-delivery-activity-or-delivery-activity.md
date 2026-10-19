@@ -17,7 +17,7 @@ feature_v2:
   - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
     internal-label: Email
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -28,4 +28,4 @@ Mit einer [!UICONTROL Versandaktivität] können Sie eine Versandaktion erstelle
 
 In diesem Video wird die Bereitstellung einer E-Mail-Versandvorlage erläutert. Darin wird der Unterschied zwischen einem E-Mail-Versand und einem Versand-Workflow erklärt.
 
->[!VIDEO](https://video.tv.adobe.com/v/27449?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}

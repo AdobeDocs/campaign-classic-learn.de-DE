@@ -32,7 +32,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 ---
@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Mit Workflows, einer leistungsstarken Funktion von Adobe Campaign, können Sie Kampagnen verwalten und Kunden mühelos erreichen. Lernen Sie von Adam Wilson, Associate Director of Marketing bei LoyaltyOne, fünf wichtige Best Practices für den Workflow von Marketingfachleuten kennen und anwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448152?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

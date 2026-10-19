@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 ---
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 Machen Sie sich mit der Verwendung von Kampagnen-Workflows vertraut und erfahren Sie, wie Sie einen Workflow erstellen und darin anhand von Filterbedingungen Zielgruppenprofile bestimmen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327078?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
 
 ## Nächste verfügbare Tutorials
 

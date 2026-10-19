@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Die Adobe Campaign Workflow-Heatmap besteht aus einer farbcodierten grafischen Darstellung aller derzeit ausgeführten Workflows. Damit erhalten Administratoren der Adobe Campaign-Plattform einen schnellen Überblick über die Anzahl der gleichzeitig ablaufenden Workflows und können die Auslastung der Instanz überwachen und Workflows entsprechend planen.
 
->[!VIDEO](https://video.tv.adobe.com/v/30534?captions=ger&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}
