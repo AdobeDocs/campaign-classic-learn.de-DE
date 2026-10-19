@@ -25,4 +25,4 @@ ht-degree: 100%
 # Probleme mit dem Lastenausgleich
 
 Erfahren Sie, wie Sie Probleme mit dem Lastenausgleich beim Neustart der Instanz beheben können.
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437500?captions=ger&quality=12&learn=on){transcript=true}

@@ -47,11 +47,11 @@ Die bzw. der Admin muss die Benutzerin bzw. den Benutzer für jede Instanz, die 
 
 ### Nützliche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34928?captions=ger&quality=12&learn=on){transcript=true}
 
 *IMS-Org-ID prüfen (00:26 Min.)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34781?captions=ger&quality=12&learn=on){transcript=true}
 
 *Hinzufügen von Admins zum Admin-Produktprofil zur Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
 
