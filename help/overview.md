@@ -41,7 +41,7 @@ ht-degree: 100%
 Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-channel Execution bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen und Leistungsmerkmalen von Adobe Campaign Classic V7.
 
 >[!INFO]
-> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
+> Haben Sie Fragen? Möchten Sie Ihre Erfahrungen mitteilen oder Ihre Gedanken mit anderen austauschen? Oder haben Sie Feedback zum Lerninhalt für das Adobe-Team? Beteiligen Sie sich an der Diskussion im [Thread der Adobe Campaign-Lern-Community](https://experienceleaguecommunities.adobe.com?lang=de:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
