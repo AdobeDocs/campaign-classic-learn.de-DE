@@ -51,7 +51,7 @@ Kunden generieren Daten auf Schritt und Tritt für jeden Kanal, während sie all
 
 Das integrierte Kundenprofil von Adobe Campaign ermöglicht es Marketing-Experten, diese Daten im großen Maßstab zu erfassen und zu verwalten. Dies reicht von Profilattributen wie demografischen Details, Postleitzahlen, Adressen, Geschlecht usw. über Interaktionsdaten, das „Öffnen einer Nachricht“, den „Klick auf eine E-Mail“ und den „Website-Besuch“ bis hin zu Konversionsdaten und sogar Offline-Daten.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507732?captions=ger&quality=12&learn=on){transcript=true}
 
 ## Erstellung und Aktualisierung von Kundenprofilen {#customer-profile-creation-and-update}
 
@@ -63,5 +63,5 @@ Sobald Sie die Profile verstanden haben, können Sie eine erweiterte Segmentieru
 
 Hinweis: Dieses Video wurde in Adobe Campaign Classic V6 aufgenommen. Die Funktionalität ist identisch, die Workflow-Symbole haben sich jedoch geändert.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507877?captions=ger&quality=12&learn=on){transcript=true}
 

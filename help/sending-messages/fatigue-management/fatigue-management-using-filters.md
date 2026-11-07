@@ -51,6 +51,6 @@ Die Ermüdungsverwaltung steuert die Häufigkeit und Anzahl von Nachrichten, um 
 
 In diesem Video wird erläutert, wie Sie die Ermüdungsverwaltung in Adobe Campaign Classic mithilfe von Filtern implementieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507479?captions=ger&quality=12&learn=on){transcript=true}
 
 Weitere Informationen zu (Kampagnentypologien[&#x200B; finden Sie in der Produktdokumentation &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=de).
